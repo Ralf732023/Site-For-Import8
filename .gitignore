@@ -32,7 +32,7 @@ Thumbs.db
 
 
 tmp/
-*_old
-*_backup
+_old
+_backup
 Site For Import/Thumbs.db
 Site For Import/.DS_Store
